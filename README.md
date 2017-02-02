@@ -1,13 +1,13 @@
-Simple Todo App created with React
+**Simple Todo App created with React**
 
-Technologies Used:
+**Technologies Used:**
 
-Javascript
+**Javascript**
 - React
 - HTML
 - CSS
 - React-Bootstrap
-Create React App
+**Create React App**
 - Webpack
 - Babel
 - ESLint
