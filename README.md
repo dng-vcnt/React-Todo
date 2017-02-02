@@ -6,8 +6,8 @@
 - React
 - HTML
 - CSS
-- React-Bootstrap
-**Create React App**
+  - React-Bootstrap
+- Create React App
 - Webpack
 - Babel
 - ESLint
